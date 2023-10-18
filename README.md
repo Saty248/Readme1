@@ -11,5 +11,4 @@ I want w1 to place a limit order for 't2' erc20 token to w1 in exchange of 't1' 
 
 
 # Issue
-
-couldnt build the transaction due the error which is given at the end of the 2nd file.
+after building the tx on the safe wallet which calls the registerAllowedOrderSigner and then executing it, what should I do next. i have pasted the transaction reciept at the end of the 2nd file. 
